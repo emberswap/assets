@@ -1,0 +1,12 @@
+{
+    "name": "Trust Wallet: Bitcoin Cash",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2021-02-01T15:48:42.549Z",
+    "tokens": [
+    ],
+    "version": {
+        "major": 8,
+        "minor": 0,
+        "patch": 0
+    }
+}
